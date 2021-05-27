@@ -20,7 +20,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 [Link](url) and ![Image](src)
 ```-->
 
-# Practical Web Development (CSCI 39548)
+# Practical Web Development 
+## (CSCI 39548)
 ### Summer 2021
 
 
