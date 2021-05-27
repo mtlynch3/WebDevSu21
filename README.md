@@ -21,8 +21,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```-->
 
 # Practical Web Development 
-## (CSCI 39548)
-### Summer 2021
+## (CSCI 39548) : Summer 2021
 
 
 
