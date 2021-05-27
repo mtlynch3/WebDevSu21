@@ -38,7 +38,7 @@ practicalwebdevsu21.slack.com
 - Course logistics, set up Slack
 - [Set up git](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
 - [GitHub Pages Tutorial](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
-- [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
+- [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 
 **Recommended: supplemental materials**
 - [Git Textbook](https://git-scm.com/book/en/v2)
