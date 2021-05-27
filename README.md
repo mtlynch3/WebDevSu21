@@ -23,7 +23,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 # Practical Web Development 
 ## (CSCI 39548) : Summer 2021
 
-**[Syllabus](https://github.com/mtlynch3/WebDevSp21/blob/main/webdev_syllabus_REVISED415.pdf)**
+**[Syllabus](https://github.com/mtlynch3/WebDevSu21/blob/main/syllabusWebDevSummer21.pdf)**
 
 **Instructor:**
  Melissa Lynch
