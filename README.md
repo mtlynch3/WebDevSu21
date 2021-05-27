@@ -1,24 +1,4 @@
-<!---
-### Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown -->
-<!--- Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```-->
 
 # Practical Web Development 
 ## (CSCI 39548) : Summer 2021
@@ -44,6 +24,7 @@ practicalwebdevsu21.slack.com
 - [Git Textbook](https://git-scm.com/book/en/v2)
 - [Video: Git Tutorial 1](https://www.youtube.com/watch?v=HVsySz-h9r4&t=443s&ab_channel=CoreySchafer)
 - [Video: Git Tutorial 2](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia)
+- [Simple git visual](http://rogerdudler.github.io/git-guide/)
 
 **Required: read for next class**
 - [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
@@ -52,9 +33,13 @@ practicalwebdevsu21.slack.com
 
 
 ### Assignment 1
-- Due on Friday 6/4 at 11:59 PM
-- [Documentation: Assignment #1](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
+- **Due on Friday 6/4 at 11:59 PM**
+- [**Documentation: Assignment #1**](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
+
+Resources:
 - [Linking pull requests to issues](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
+- [HTML tutorial](https://www.w3schools.com/html/default.asp)
+- [CSS tutorial](https://www.w3schools.com/css/default.asp)
 
 ## Class 2 (Tu 6/1)
 - JavaScript
