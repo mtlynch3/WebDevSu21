@@ -52,7 +52,7 @@ practicalwebdevsu21.slack.com
 
 
 ### Assignment 1
-- Due on Wednesday 6/2 at 11:59 PM
+- Due on Friday 6/4 at 11:59 PM
 - [Documentation: Assignment #1](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
 - [Linking pull requests to issues](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
 
