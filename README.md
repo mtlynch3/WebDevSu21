@@ -58,7 +58,7 @@ practicalwebdevsu21.slack.com
 
 ## Class 2 (Tu 6/1)
 - JavaScript
-- Work on Assignment 1
+- Work on assignments
 
 ## Class 3 (Th 6/3)
 - Finish JS, release Assignment 2
