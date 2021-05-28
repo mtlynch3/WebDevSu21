@@ -37,6 +37,7 @@ practicalwebdevsu21.slack.com
 - [**Documentation: Assignment #1**](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
 
 Resources:
+- [Demo code](https://github.com/mtlynch3/a_website)
 - [Linking pull requests to issues](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
 - [HTML tutorial](https://www.w3schools.com/html/default.asp)
 - [CSS tutorial](https://www.w3schools.com/css/default.asp)
