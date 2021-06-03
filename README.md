@@ -56,7 +56,9 @@ Resources:
 
 Resources
 - [Installing Node.js](https://nodejs.org/en/download/package-manager/)
-- 
+- [Template for functions](https://gist.github.com/mtlynch3/052aade2ba7e913b45bb740c7d2f505b)
+
+
 ## Class 4 (Tu 6/8)
 - Finish up the DOM, release Assignment 3
 - Intro to React
