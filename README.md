@@ -45,7 +45,12 @@ Resources:
 - Finish JS, release Assignment 2
 - [Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
-**Recommended: supplemental materials:**
+**Required: watch for next class**
+- [Intro to the DOM](https://www.youtube.com/watch?v=l-0nPnSvbX8)
+- [Traversing the DOM](https://www.youtube.com/watch?v=8LWQNnVAMh4)
+- [DOM Events](https://www.youtube.com/watch?v=QE1YQnhntgw)
+
+**Recommended: supplemental materials**
 - [Eloquent JavaScript Chapter 13: JavaScript and the Browser](http://eloquentjavascript.net/13_browser.html)
 - [Eloquent JavaScript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
 - [Eloquent JavaScript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
