@@ -51,13 +51,15 @@ Resources:
 - [Eloquent JavaScript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
 
 ### Assignment 2
-- Due Monday 6/14 at 11:59 PM
-- [Assignment #2](https://docs.google.com/document/d/1e4i4AOl5PmCJ9xzR-94gEegwvvwRw6eqAe0VZHOz5to/edit?usp=sharing)
-- [MDN: Array.prototype.forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+- **Due Monday 6/14 at 11:59 PM**
+- [**Documentation: Assignment #2**](https://docs.google.com/document/d/1e4i4AOl5PmCJ9xzR-94gEegwvvwRw6eqAe0VZHOz5to/edit?usp=sharing)
 
+Resources
+- [Installing Node.js](https://nodejs.org/en/download/package-manager/)
+- 
 ## Class 4 (Tu 6/8)
 - Finish up the DOM, release Assignment 3
-- Work on assignments
+- Intro to React
 
 ### Assignment 3
 - Due Monday 6/14 at 11:59 PM
