@@ -43,7 +43,7 @@ Resources:
 
 ## Class 3 (Th 6/3)
 - Finish JS, release Assignment 2
-- [Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- [MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 **Required: watch for next class**
 - [Intro to the DOM](https://www.youtube.com/watch?v=l-0nPnSvbX8)
