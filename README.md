@@ -72,7 +72,7 @@ Resources
 
 ### Assignment 3
 - **Due Monday 6/14 at 11:59 PM**
-- [**Assignment #3**](https://docs.google.com/document/d/11xFpi2Eue2wwwiUHoHBaPWB2gmczogxZQhS67YKks9o/edit?usp=sharing)
+- [**Documentation: Assignment #3**](https://docs.google.com/document/d/11xFpi2Eue2wwwiUHoHBaPWB2gmczogxZQhS67YKks9o/edit?usp=sharing)
 
 ## Class 5 (Th 6/10) 
 - [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
