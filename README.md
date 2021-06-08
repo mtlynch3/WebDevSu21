@@ -65,7 +65,7 @@ Resources
 
 ## Class 4 (Tu 6/8)
 - Finish up the DOM, release Assignment 3
-- DOM Example(https://gist.github.com/mtlynch3/3af5f8dd1a800a3167f8c3a3b9d36bec)
+- [DOM Example](https://gist.github.com/mtlynch3/3af5f8dd1a800a3167f8c3a3b9d36bec)
 - Intro to React ([slides](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view))
 
 **For next class: required videos (watch all in the series)**
