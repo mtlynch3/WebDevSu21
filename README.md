@@ -65,6 +65,7 @@ Resources
 
 ## Class 4 (Tu 6/8)
 - Finish up the DOM, release Assignment 3
+- DOM Example(https://gist.github.com/mtlynch3/3af5f8dd1a800a3167f8c3a3b9d36bec)
 - Intro to React ([slides](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view))
 
 **For next class: required videos (watch all in the series)**
@@ -73,6 +74,9 @@ Resources
 ### Assignment 3
 - **Due Monday 6/14 at 11:59 PM**
 - [**Documentation: Assignment #3**](https://docs.google.com/document/d/11xFpi2Eue2wwwiUHoHBaPWB2gmczogxZQhS67YKks9o/edit?usp=sharing)
+
+Resources:
+- [Starter code](https://gist.github.com/mtlynch3/5f1f86199a3ddb12d137f9d2fe8d1900)
 
 ## Class 5 (Th 6/10) 
 - [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
