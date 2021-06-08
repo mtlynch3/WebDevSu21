@@ -65,7 +65,7 @@ Resources
 
 ## Class 4 (Tu 6/8)
 - Finish up the DOM, release Assignment 3
-- [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
+- Intro to React ([slides](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view))
 
 **For next class: required videos (watch all in the series)**
 - [Introduction to React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
@@ -75,8 +75,7 @@ Resources
 - [**Assignment #3**](https://docs.google.com/document/d/11xFpi2Eue2wwwiUHoHBaPWB2gmczogxZQhS67YKks9o/edit?usp=sharing)
 
 ## Class 5 (Th 6/10) 
-- React
-
+- [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
 
 *Extra practice:*
 - [React practial tutorial: Tic Tac Toe](https://reactjs.org/tutorial/tutorial.html)
