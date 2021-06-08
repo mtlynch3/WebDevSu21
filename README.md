@@ -63,36 +63,41 @@ Resources
 - [Installing Node.js](https://nodejs.org/en/download/package-manager/)
 - [Template for functions](https://gist.github.com/mtlynch3/052aade2ba7e913b45bb740c7d2f505b)
 
-
 ## Class 4 (Tu 6/8)
 - Finish up the DOM, release Assignment 3
-- Intro to React
+- [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
+
+**For next class: required videos (watch all in the series)**
+- [Introduction to React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
 
 ### Assignment 3
-- Due Monday 6/14 at 11:59 PM
-- [Assignment #3](https://docs.google.com/document/d/11xFpi2Eue2wwwiUHoHBaPWB2gmczogxZQhS67YKks9o/edit?usp=sharing)
+- **Due Monday 6/14 at 11:59 PM**
+- [**Assignment #3**](https://docs.google.com/document/d/11xFpi2Eue2wwwiUHoHBaPWB2gmczogxZQhS67YKks9o/edit?usp=sharing)
 
 ## Class 5 (Th 6/10) 
-- Intro to React
-- Work on assignments
-
-## Class 6 (Tu 6/15)
 - React
 
-## Class 7 (Th 6/17)
+
+*Extra practice:*
+- [React practial tutorial: Tic Tac Toe](https://reactjs.org/tutorial/tutorial.html)
+- [Video: React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
+
+## Class 6 (Tu 6/15)
 - [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
 - Fetching data from an API
+
+## Class 7 (Th 6/17)
+- React-Router
 - Release Assignment 4
 
 ### Assignment 4
 - Due on Monday 6/28
 
 ## Class 8 (Tu 6/22)
-- React-Redux
+- Redux
+- Introduce Final Project
 
-## Class 9 (Th 6/24)
-- React-Router
-- Introduce Final project
+## Class 9 (Th 6/24) !No class - Monday Schedule!
 
 ## Class 10 (Tu 6/29)
 - Setting up final project backend
@@ -109,7 +114,7 @@ Resources
 - Exit assessment (1 hr)
 - Work on final project
 
-### Final projects are due 7/9
+### Final projects are due 7/9 at 11:59 PM
 
 
 
