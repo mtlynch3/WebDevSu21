@@ -83,18 +83,31 @@ Resources:
 
 *Extra practice:*
 - [React practial tutorial: Tic Tac Toe](https://reactjs.org/tutorial/tutorial.html)
+
+*This video is a good overview of some of the more recent React trends (including hooks)*
 - [Video: React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
+
+**Required: watch for next class**
+- [Video: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia)
 
 ## Class 6 (Tu 6/15)
 - [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
 - Fetching data from an API
+
+*Supplemental materials:*
+- [In-depth article on async/await](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
+- [Video: async/await](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
+- [Eloquent JavaScript: Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
+- [MDN: Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [MDN: Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [Axios tutorial](http://zetcode.com/javascript/axios/)
 
 ## Class 7 (Th 6/17)
 - React-Router
 - Release Assignment 4
 
 ### Assignment 4
-- Due on Monday 6/28
+- **Due Monday 6/28 at 11:59 PM**
 
 ## Class 8 (Tu 6/22)
 - Redux
