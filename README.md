@@ -94,7 +94,7 @@ Resources:
 
 ## Class 6 (Tu 6/15)
 - [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
-- Fetching data from an API
+- [Demo: fetching data from an API and displaying the results using React](https://gist.github.com/mtlynch3/82420435b001e70db6f0c64df72e54ff)
 
 *Supplemental materials:*
 - [In-depth article on async/await](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
