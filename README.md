@@ -96,6 +96,10 @@ Resources:
 - [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
 - [Demo: fetching data from an API and displaying the results using React](https://gist.github.com/mtlynch3/82420435b001e70db6f0c64df72e54ff)
 
+*Chrome extensions used in class:*
+- [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+
 *Supplemental materials:*
 - [In-depth article on async/await](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
 - [Video: async/await](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
