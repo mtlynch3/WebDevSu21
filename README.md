@@ -109,11 +109,18 @@ Resources:
 - [Axios tutorial](http://zetcode.com/javascript/axios/)
 
 ## Class 7 (Th 6/17)
-- React-Router
-- Release Assignment 4
+
+- React-Router ([slides](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view))
+- [Assignment 4](https://gist.github.com/mtlynch3/4c86b925d4493355a5f2f6c41d2a3aa6)
+
+*Recommended materials for next class:*
+- Redux: comprehensive tutorial by Dan Abramov, the creator of Redux ([Part 1](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)) ([Part 2](https://egghead.io/courses/building-react-applications-with-idiomatic-redux))
+- [Article](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60) on thunks in Redux
+- [Coding example](https://learn.co/lessons/redux-thunk-readme) using thunks
 
 ### Assignment 4
 - **Due Monday 6/28 at 11:59 PM**
+- [Bank of React](https://gist.github.com/mtlynch3/4c86b925d4493355a5f2f6c41d2a3aa6)
 
 ## Class 8 (Tu 6/22)
 - Redux
@@ -122,15 +129,16 @@ Resources:
 ## Class 9 (Th 6/24) !No class - Monday Schedule!
 
 ## Class 10 (Tu 6/29)
-- Setting up final project backend
+- Final project backend 1
 - Express/Sequelize
 
 ## Class 11 (Th 7/1)
-- Finish backend materials
-- Work on final project
+- Final project backend 2
+- Express/Sequelize
 
 ## Class 12 (Tu 7/6)
 - Work on final project
+- Review exit assessment materials
 
 ## Class 13 (Th 7/8)
 - Exit assessment (1 hr)
