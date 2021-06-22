@@ -123,8 +123,19 @@ Resources:
 - [Bank of React](https://gist.github.com/mtlynch3/4c86b925d4493355a5f2f6c41d2a3aa6)
 
 ## Class 8 (Tu 6/22)
-- Redux
-- Introduce Final Project
+- Managing state in React applications with Redux
+- Intro to Redux ([slides](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view))
+- Thunk middleware ([slides](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view))
+- [Redux demo](https://github.com/mtlynch3/astro-redux)
+
+## Final Project (Fullstack [CRUD](https://medium.com/@thorntonbrenden/whats-a-crud-app-e5a29cce03b5) App)
+- **[Platform For Managing Students and Campuses](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)**
+- [Server starter code](https://github.com/mtlynch3/starter-server)
+- [Client starter code](https://github.com/mtlynch3/starter-client)
+
+*Supplemental materials:*
+- [Video: Axios Crash Course](https://www.youtube.com/watch?v=6LyagkoRWYA)
+- [Video: HTTP Crash Course](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
 ## Class 9 (Th 6/24) !No class - Monday Schedule!
 
