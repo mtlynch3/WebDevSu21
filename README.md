@@ -119,7 +119,7 @@ Resources:
 - [Coding example](https://learn.co/lessons/redux-thunk-readme) using thunks
 
 ### Assignment 4
-- **Due Monday 6/28 at 11:59 PM**
+- **Due Friday 7/2 at 11:59 PM**
 - [Bank of React](https://gist.github.com/mtlynch3/4c86b925d4493355a5f2f6c41d2a3aa6)
 
 ## Class 8 (Tu 6/22)
