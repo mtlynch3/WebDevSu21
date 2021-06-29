@@ -137,21 +137,21 @@ Resources:
 - [Video: Axios Crash Course](https://www.youtube.com/watch?v=6LyagkoRWYA)
 - [Video: HTTP Crash Course](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
-## Class 9 (Th 6/24) !No class - Monday Schedule!
+## (Th 6/24) !No class - Monday Schedule!
 
-## Class 10 (Tu 6/29)
+## Class 9 (Tu 6/29)
 - Final project backend 1
 - Express/Sequelize
 
-## Class 11 (Th 7/1)
+## Class 10 (Th 7/1)
 - Final project backend 2
 - Express/Sequelize
 
-## Class 12 (Tu 7/6)
+## Class 11 (Tu 7/6)
 - Work on final project
 - Review exit assessment materials
 
-## Class 13 (Th 7/8)
+## Class 12 (Th 7/8)
 - Exit assessment (1 hr)
 - Work on final project
 
