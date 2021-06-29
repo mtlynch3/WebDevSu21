@@ -140,8 +140,22 @@ Resources:
 ## (Th 6/24) !No class - Monday Schedule!
 
 ## Class 9 (Tu 6/29)
-- Final project backend 1
-- Express/Sequelize
+- RESTful APIs ([slides](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view))
+- ExpressJS ([slides](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view))
+- Intro to ORMs ([slides](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view))
+- Demo project starter code
+
+*Supplemental materials:*
+- [Tutorial: Setting up a simple Node app with Express/Sequelize](https://www.youtube.com/watch?v=bOHysWYMZM0&ab_channel=TraversyMedia)
+- [Relational database concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
+- [Intro to Object-Relational Mapping](https://www.youtube.com/watch?v=dHQ-I7kr_SY)
+- [Slides on databases](https://drive.google.com/file/d/1WsA3z9FAp5ZuiQzb9Wfmnll7OCpBUa4g/view)
+- [psql commands](https://www.postgresqltutorial.com/psql-commands/)
+- [Sequelize documentation](https://sequelize.org/master/)
+
+*Resources:*
+- [Add an existing project to GitHub](https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line)
+- Downloads: [PostgreSQL](https://www.postgresql.org/download/) and [Postman](https://www.postman.com/downloads/)
 
 ## Class 10 (Th 7/1)
 - Final project backend 2
