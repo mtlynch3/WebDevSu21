@@ -166,7 +166,7 @@ Resources:
 - Review exit assessment materials
 
 ## Class 12 (Th 7/8)
-- Exit assessment (1 hr)
+- Exit assessment will be on Blackboard under Course Materials. It will be available from 6:00 - 7:00 PM.
 - Work on final project
 
 ### Final projects are due 7/9 at 11:59 PM
