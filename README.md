@@ -169,7 +169,7 @@ Resources:
 - Exit assessment will be on Blackboard under Course Materials. It will be available from 6:00 - 7:00 PM.
 - Work on final project
 
-### Final projects are due 7/9 at 11:59 PM
+### Final projects are due Monday 7/12 at 10:00 AM
 
 
 
